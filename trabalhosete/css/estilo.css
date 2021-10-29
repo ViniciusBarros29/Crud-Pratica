@@ -1,0 +1,14 @@
+.red{
+    color: red;
+}
+
+.blue{
+    color: blue;
+}
+.normal{
+    color: gray;
+}
+.old{
+    color:blue;
+    font-weight: strong;
+}
